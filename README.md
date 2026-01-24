@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome%20to%20my%20Github&textBg=false🕹️"/>
 </p>
-### I’m @divyaanshforever
+
 ### Hi there 👋
+* I’m @divyaanshforever
 * 👂 My name is Divyaansh
 * 🌱 I’m currently learning data science
 * 📫 How to reach me: myselfdrd01@gmail.com
